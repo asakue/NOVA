@@ -68,7 +68,7 @@ npm run dev
 
 ## Демо-версия
 
-Статическая демо-версия доступна для просмотра по адресу: [https://asakue.github.io/nova-student-portal](https://asakue.github.io/nova-student-portal)
+Статическая демо-версия доступна для просмотра по адресу: [https://asakue.github.io/nova-student-portal]( https://asakue.github.io/NOVA/)
 
 ### Данные для входа:
 - **Студент**: логин `student`, пароль `stud`
