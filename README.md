@@ -1,4 +1,4 @@
-# NOVA - Личный кабинет студента
+# NOVA - Информационная среда
 
 <p align="center">
   <img src="static/img/nova-icon.svg" alt="NOVA Logo" width="120" height="120">
